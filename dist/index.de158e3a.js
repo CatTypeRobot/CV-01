@@ -45,7 +45,8 @@ let string = `/*你好，我是Achel
     border-radius: 50%;
     background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 25%, rgba(255,255,255,1) 25%, rgba(255,255,255,1) 100%, rgba(0,0,0,1) 100%);
 }
-/*最后再加点动画效果
+/*最后,再加点动画效果
+*让八卦旋转起来
 **/
 #div1 {
     animation: change 3s;
