@@ -1,0 +1,17 @@
+16
+29J:\learnFront-end\07-CV\.idea133017391590126525 1
+37J:\learnFront-end\07-CV\src\style.css133017379380044520 0
+27J:\learnFront-end\07-CV\src133017391589556002 1
+28J:\learnFront-end\07-CV\dist133017391591257554 1
+38J:\learnFront-end\07-CV\src\index.html133017391450139905 0
+51J:\learnFront-end\07-CV\dist\index.2cdaf7bc.css.map133017382117927512 0
+35J:\learnFront-end\07-CV\src\main.js133017391589546071 0
+46J:\learnFront-end\07-CV\dist\index.de158e3a.js133017391591217516 0
+47J:\learnFront-end\07-CV\dist\index.2cdaf7bc.css133017382117877467 0
+50J:\learnFront-end\07-CV\dist\index.de158e3a.js.map133017391591247541 0
+39J:\learnFront-end\07-CV\dist\index.html133017391451421058 0
+40J:\learnFront-end\07-CV\.idea\.gitignore133016752646539550 0
+39J:\learnFront-end\07-CV\.idea\07-CV.iml133016752644537879 0
+41J:\learnFront-end\07-CV\.idea\modules.xml133016752645208335 0
+37J:\learnFront-end\07-CV\.idea\vcs.xml133016759201483481 0
+43J:\learnFront-end\07-CV\.idea\workspace.xml133017391590116519 0
