@@ -45,6 +45,17 @@ let string = `/*你好，我是Acehl
     border-radius: 50%;
     background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 25%, rgba(255,255,255,1) 25%, rgba(255,255,255,1) 100%, rgba(0,0,0,1) 100%);
 }
+/*最后再加点动画效果
+**/
+#div1 {
+    animation: change 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+@keyframes change {
+    0% {transform: rotate(0deg)}
+    100% {transform: rotate(360deg)}
+}
 `
 let string2 = ""
 let n = 0
