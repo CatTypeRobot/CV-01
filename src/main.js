@@ -1,22 +1,30 @@
 let html = document.querySelector("#html")
 let style = document.querySelector("#style")
-let string = `/*测试测试测试测试测试测试测试测试
-测试   测试测试
-测试测试测试
+let string = `/*你好，我是Acehl
+*下面我将使用JS画出一个八卦
+*首先要准备一个div
 **/
 #div1 {
     border: 1px solid red;
     width: 200px;
     height: 200px;
 }
+/*然后要把方框变成一个圆
+**/
 #div1 {
     border-radius: 50%;
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
     border: none;
 }
+/*太极生两仪
+*一半阴一半阳
+**/
 #div1 {
     background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 50%, rgba(0,0,0,1) 50%, rgba(0,0,0,1) 100%);
 }
+/*阳中有阴，阴中有阳
+*加两个黑白小点
+**/
 #div1::before {
     width: 100px;
     height: 100px;
