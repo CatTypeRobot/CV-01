@@ -1,6 +1,6 @@
 let html = document.querySelector("#html")
 let style = document.querySelector("#style")
-let string = `/*你好，我是Acehl
+let string = `/*你好，我是Achel
 *下面我将使用JS画出一个八卦
 *首先要准备一个div
 **/
